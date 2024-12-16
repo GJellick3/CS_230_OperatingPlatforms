@@ -1,1 +1,1 @@
-# CS_230_OperatingPlatforms
+The Gaming Room client is a company that has an application called "Draw it or Lose it" that they had outsourced for development for web based access. I believe that I did most of the programming particularly well, as I don't believe I had many errors. I found the design document helpful throug hthe process of writing down changes on the days that I made them. It made it easier to pick up where I left off and organize where I still need to go with the programming. 
